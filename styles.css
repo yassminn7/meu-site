@@ -2,10 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #FF862A;
-    --alto-contraste-fundo: #000000;
+    --laranja-claro: #070f79;
+    --alto-contraste-fundo: #43c1fc;
     --alto-contraste-texto: #ffffff;
-    --alto-contraste-link: #ffd700;
+    --alto-contraste-link: #00fef9;
 }
 
 body {
@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    background-color: #ffffff;
+    background-color: #03067c;
 }
 
 
@@ -30,7 +30,7 @@ section {
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('img/4965007.jpg');
+    background-image: url('img/yo\ dream_.jpeg');
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
@@ -79,9 +79,9 @@ section {
     padding-top: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background: url('img/flor.png') top right no-repeat,
-        url('img/flor-esquerda.png') bottom left no-repeat;
-    background-size: 180px 180px;
+    background: url('img/Mark__1_-removebg-preview.png') top right no-repeat,
+        url('img/___ᵔ_ᵕ_ᵔ___-removebg-preview.png') bottom left no-repeat;
+    background-size: 300px 300px;
     /* Ajuste o tamanho conforme necessário */
 }
 
@@ -103,12 +103,12 @@ h2 {
 }
 
 #galeria {
-    background-color: #FAF4F4;
+    background-color: #a3d2ff;
 
 }
 
 .fundo-galeria {
-    background: url('img/flor-bottom-direita.png') bottom right no-repeat;
+    background: url('img/bb_mk_cheetah1-removebg-preview.png') bottom right no-repeat;
     background-size: 180px 180px;
 }
 
